@@ -4,11 +4,8 @@ game 'gta5'
 author 'Toggle'
 version '1.1'
 
+shared_script 'shared/*.lua'
 client_script 'client/*.lua'
 server_script 'server/*.lua'
-
-shared_scripts {
-	'shared/*.lua',
-}
 
 lua54 'yes'
