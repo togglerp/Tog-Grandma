@@ -1,8 +1,8 @@
-Dependencies:
+### Dependencies:
 - QB-Core Framework
-- PS-UI (Minigame Support)
+- [PS-UI](https://github.com/Project-Sloth/ps-ui) (Minigame Support)
 
-Update 1.1
+### Update 1.1
 
 - The price of grandma will change automatically with the third eye linked to Config.Cost
 - Optimized a lot of the functionality and updated most of the code to variables already
